@@ -1,0 +1,64 @@
+﻿ID,Gender,Attendance,Exam_scores,Major,Dropout,Total_classes,categorical_column
+1,Male,84,76,Computer Science,No,100,Category_A
+2,Female,92,89,Business,No,100,Category_B
+3,Male,71,65,Engineering,Yes,100,Category_A
+4,Female,87,95,Math,No,100,Category_B
+5,Male,78,62,Biology,Yes,100,Category_A
+6,Female,85,81,Computer Science,No,100,Category_B
+7,Male,68,75,Engineering,Yes,100,Category_A
+8,Female,91,63,Math,No,100,Category_B
+9,Male,79,92,Biology,No,100,Category_A
+10,Female,72,86,Business,No,100,Category_B
+11,Male,81,69,Computer Science,No,100,Category_A
+12,Female,89,97,Math,No,100,Category_B
+13,Male,66,72,Engineering,Yes,100,Category_A
+14,Female,83,90,Business,No,100,Category_B
+15,Male,75,68,Biology,Yes,100,Category_A
+16,Female,80,84,Computer Science,No,100,Category_B
+17,Male,63,67,Engineering,Yes,100,Category_A
+18,Female,88,96,Math,No,100,Category_B
+19,Male,77,81,Biology,No,100,Category_A
+20,Female,71,75,Business,No,100,Category_B
+21,Male,82,71,Computer Science,No,100,Category_A
+22,Female,86,94,Math,No,100,Category_B
+23,Male,65,70,Engineering,Yes,100,Category_A
+24,Female,81,87,Business,No,100,Category_B
+25,Male,73,66,Biology,Yes,100,Category_A
+26,Female,78,82,Computer Science,No,100,Category_B
+27,Male,61,65,Engineering,Yes,100,Category_A
+28,Female,85,93,Math,No,100,Category_B
+29,Male,76,79,Biology,No,100,Category_A
+30,Female,70,74,Business,No,100,Category_B
+31,Male,80,70,Computer Science,No,100,Category_A
+32,Female,84,92,Math,No,100,Category_B
+33,Male,63,68,Engineering,Yes,100,Category_A
+34,Female,79,86,Business,No,100,Category_B
+35,Male,71,64,Biology,Yes,100,Category_A
+36,Female,76,80,Computer Science,No,100,Category_B
+37,Male,59,63,Engineering,Yes,100,Category_A
+38,Female,83,91,Math,No,100,Category_B
+39,Male,74,77,Biology,No,100,Category_A
+40,Female,69,73,Business,No,100,Category_B
+41,Male,78,69,Computer Science,No,100,Category_A
+42,Female,82,90,Math,No,100,Category_B
+43,Male,61,66,Engineering,Yes,100,Category_A
+44,Female,77,84,Business,No,100,Category_B
+45,Male,69,62,Biology,Yes,100,Category_A
+46,Female,74,78,Computer Science,No,100,Category_B
+47,Male,57,61,Engineering,Yes,100,Category_A
+48,Female,81,89,Math,No,100,Category_B
+49,Male,72,75,Biology,No,100,Category_A
+50,Female,67,71,Business,No,100,Category_B
+51,Male,76,68,Computer Science,No,100,Category_A
+52,Female,80,88,Math,No,100,Category_B
+53,Male,59,64,Engineering,Yes,100,Category_A
+54,Female,75,82,Business,No,100,Category_B
+55,Male,67,60,Biology,Yes,100,Category_A
+56,Female,72,76,Computer Science,No,100,Category_B
+57,Male,55,59,Engineering,Yes,100,Category_A
+58,Female,79,87,Math,No,100,Category_B
+59,Male,70,73,Biology,No,100,Category_A
+60,Female,65,69,Business,No,100,Category_B
+61,Male,74,67,Computer Science,No,100,Category_A
+62,Female,78,86,Math,No,100,Category_B
+63,Male,57,62,Engineering,Yes,100,Category_A
